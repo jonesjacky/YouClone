@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485436545320",
+    "firebase_url": "https://youclone-a921c.firebaseio.com",
+    "project_id": "youclone-a921c",
+    "storage_bucket": "youclone-a921c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485436545320:android:0c94f35cab505052",
+        "android_client_info": {
+          "package_name": "com.example.unknown.youclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485436545320-ilu9ba59dhk8vk4eekd0udfufv1c370o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0hnYLDcNFVqJJ4ccwZjNtKkqHVnfBDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
